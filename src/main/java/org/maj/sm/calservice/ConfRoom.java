@@ -25,6 +25,10 @@ public class ConfRoom implements Comparable<ConfRoom>{
         return reserved;
     }
 
+    public void setReserved(boolean reserved) {
+        this.reserved = reserved;
+    }
+
     @Override
     public int compareTo(ConfRoom o) {
         return capacity < o.capacity ? -1 : (capacity > o.capacity ? 1 : 0);
