@@ -1,4 +1,4 @@
-Codeway
+Codeway [![Build Status](https://travis-ci.org/shamikm/codeway.svg?branch=master)](https://travis-ci.org/shamikm/codeway)
 ===============
 Coding problem solver.
 
