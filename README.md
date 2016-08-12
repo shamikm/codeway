@@ -1,3 +1,2 @@
-Background
-===============
-This is my practice ground.
+# codeway
+Coding Problem Solver
